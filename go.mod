@@ -1,7 +1,7 @@
 module github.com/shravanyannam/MyGoCode
 
 go 1.21.6
- 
+
 require (
 	github.com/cenkalti/backoff/v4 v4.2.1 // indirect
 	github.com/dlclark/regexp2 v1.9.0 // indirect
