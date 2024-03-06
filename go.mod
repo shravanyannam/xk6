@@ -1,4 +1,4 @@
-module github.com/shravanyannam/MyGoCode
+module github.com/shravanyannam/xk6
 
 go 1.21.6
 
